@@ -56,7 +56,9 @@ node-red
 
 ### Machine Learning :
 
-1/ We saved data locally in a .csv file and then used Edge Impulse to train our model using different algorithms: KNN, Neural Networks, SVM, Logistic regression...
+1/Data Preprocessing:  We engaged in data preprocessing, a step that involved tasks such as data cleansing, noise reduction, and handling missing values within the CSV dataset. 
+2/Feature Extraction: We extracted spectral and temporal features from the preprocessed data.
+3/Neural Network Construction and Training: We designed and trained a neural network tailored to our dataset using the Edge Impulse platform. We then exported the TfLite model. 
 
 Edge impulse link: https://edgeimpulse.com/
 
@@ -96,6 +98,12 @@ And the supervision of our professors :
 ![dashboard1](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/5bd83df8-dd71-4aed-9f6b-209fa93fde47)
 ![dashboard2](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/3846327b-40c2-43c7-9012-6f8b625694f6)
 ![dashboard3](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/86035161-ae1a-4ba9-9531-1bc948bd641d)
+### Edge Impulse
+
+![validation set](https://github.com/majdkaroui/I-Cow-Care/assets/92250842/3be30626-f07f-4a79-8370-d38eeabae3ac)
+![image](https://github.com/majdkaroui/I-Cow-Care/assets/92250842/f699f97b-66eb-47c1-b98f-48361771efcd)
+
+
 
 ### Mechanical Design
 
