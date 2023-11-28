@@ -1,5 +1,5 @@
 
-# I-Cow-Care: IoT System for Health Monitoring
+# I-Cow-Care: IoT System for Cow Health Monitoring
 
 This project presents an IoT solution for cow health monitoring. The IoT device (Wearable Collar for cows) will help cow breeders detect cow health problems, and cow reproduction cycle in order to increase milk productivity and help prevent sickness and diseases among cows. This also gives the user easy access to the cow's vital indicators and helps predict its needs.
 
