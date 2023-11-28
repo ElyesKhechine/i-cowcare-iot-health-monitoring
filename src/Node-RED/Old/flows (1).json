@@ -1,0 +1,307 @@
+[
+    {
+        "id": "9b9ee4237f925aa2",
+        "type": "tab",
+        "label": "ICowCare data Firebase",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4aecba01.78ce64",
+        "type": "mqtt in",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "topic": "test/x",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 550,
+        "y": 40,
+        "wires": [
+            [
+                "22efa7b7.544a28",
+                "87de6ac27c5bff90",
+                "ba4b51db31b3bccb"
+            ]
+        ]
+    },
+    {
+        "id": "22efa7b7.544a28",
+        "type": "debug",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 790,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "019c43fed9ddd58e",
+        "type": "mqtt in",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "topic": "test/y",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 550,
+        "y": 160,
+        "wires": [
+            [
+                "1e3825af237875a3",
+                "87de6ac27c5bff90",
+                "ba4b51db31b3bccb"
+            ]
+        ]
+    },
+    {
+        "id": "1e3825af237875a3",
+        "type": "debug",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "24703f0e506e0d0f",
+        "type": "mqtt in",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "topic": "test/z",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 550,
+        "y": 260,
+        "wires": [
+            [
+                "d8d511783233f807",
+                "87de6ac27c5bff90",
+                "ba4b51db31b3bccb"
+            ]
+        ]
+    },
+    {
+        "id": "d8d511783233f807",
+        "type": "debug",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "7db720f3e381d60f",
+        "type": "inject",
+        "z": "9b9ee4237f925aa2",
+        "name": "inject to or get from",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "123",
+        "payloadType": "num",
+        "x": 630,
+        "y": 560,
+        "wires": [
+            [
+                "ba4b51db31b3bccb"
+            ]
+        ]
+    },
+    {
+        "id": "ba4b51db31b3bccb",
+        "type": "http request",
+        "z": "9b9ee4237f925aa2",
+        "name": "PUT in Firebase",
+        "method": "PUT",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://i-cowcare2023-default-rtdb.firebaseio.com/new_key.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 900,
+        "y": 520,
+        "wires": [
+            [
+                "17b2796c2d6aa13a"
+            ]
+        ]
+    },
+    {
+        "id": "17b2796c2d6aa13a",
+        "type": "debug",
+        "z": "9b9ee4237f925aa2",
+        "name": "debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1130,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "32ef2058ca7341e9",
+        "type": "http request",
+        "z": "9b9ee4237f925aa2",
+        "name": "GET from Firebase",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://i-cowcare2023-default-rtdb.firebaseio.com/new_key.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 910,
+        "y": 600,
+        "wires": [
+            [
+                "17b2796c2d6aa13a"
+            ]
+        ]
+    },
+    {
+        "id": "87de6ac27c5bff90",
+        "type": "ui_chart",
+        "z": "9b9ee4237f925aa2",
+        "name": "",
+        "group": "7401f15eaf3309d3",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "1",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 990,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "10e78a89.5b4fd5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "192.168.1.15",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "7401f15eaf3309d3",
+        "type": "ui_group",
+        "name": "AccelerationDataChart",
+        "tab": "7973cd45f9957b8f",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7973cd45f9957b8f",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

@@ -1,0 +1,4208 @@
+[
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683500783
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683500832
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683501009
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683501189
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683501369
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683501549
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": -1152,
+   "timestamp": 1683501729
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": -1152,
+   "timestamp": 1683501888
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": -960,
+   "timestamp": 1683502068
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": -960,
+   "timestamp": 1683502248
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683564013
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683564291
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683564468
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683564648
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 960,
+   "timestamp": 1683564658
+ },
+ {
+   "acceleration axis x": 12096,
+   "acceleration axis y": 12096,
+   "acceleration axis z": 12096,
+   "timestamp": 1683564836
+ },
+ {
+   "acceleration axis x": 12096,
+   "acceleration axis y": 12096,
+   "acceleration axis z": 12096,
+   "timestamp": 1683565016
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683565069
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683565133
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683565311
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": -1152,
+   "timestamp": 1683567700
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": 0,
+   "acceleration axis z": -960,
+   "timestamp": 1683567880
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": -960,
+   "timestamp": 1683568060
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -576,
+   "acceleration axis z": 768,
+   "timestamp": 1683568240
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683568360
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683568540
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683568734
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": -960,
+   "timestamp": 1683568871
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": -960,
+   "timestamp": 1683568873
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": -960,
+   "timestamp": 1683568874
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": -1344,
+   "timestamp": 1683568875
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": 384,
+   "acceleration axis z": -2112,
+   "timestamp": 1683568876
+ },
+ {
+   "acceleration axis x": 1344,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568877
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": -384,
+   "acceleration axis z": 2688,
+   "timestamp": 1683568878
+ },
+ {
+   "acceleration axis x": 1152,
+   "acceleration axis y": -192,
+   "acceleration axis z": 2688,
+   "timestamp": 1683568879
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": -768,
+   "timestamp": 1683568880
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": -768,
+   "timestamp": 1683568881
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": -768,
+   "timestamp": 1683568882
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": -960,
+   "timestamp": 1683568883
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 576,
+   "acceleration axis z": -384,
+   "timestamp": 1683568884
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 576,
+   "acceleration axis z": 0,
+   "timestamp": 1683568885
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 960,
+   "acceleration axis z": 192,
+   "timestamp": 1683568886
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 768,
+   "acceleration axis z": 192,
+   "timestamp": 1683568887
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 768,
+   "acceleration axis z": 192,
+   "timestamp": 1683568888
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 576,
+   "acceleration axis z": -192,
+   "timestamp": 1683568889
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": -1152,
+   "timestamp": 1683568890
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 1536,
+   "timestamp": 1683568891
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 2304,
+   "timestamp": 1683568892
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683568893
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -576,
+   "acceleration axis z": 384,
+   "timestamp": 1683568894
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568895
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 1344,
+   "timestamp": 1683568896
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568897
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568898
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568899
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568900
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568901
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568902
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568906
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568907
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568909
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568910
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568911
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568912
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568913
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568914
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683568915
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568916
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683568918
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568919
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568920
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568921
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568922
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568923
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568924
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568925
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568926
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568927
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568929
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568930
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568931
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568932
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568933
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568934
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568935
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568936
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568937
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568938
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568939
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568940
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568941
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568942
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568943
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568944
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568945
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568946
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568947
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568948
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568949
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568950
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568951
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568952
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568953
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568954
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568955
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683568956
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568957
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568959
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568960
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568961
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568962
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568963
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568965
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568966
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568967
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568968
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568969
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568970
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568971
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568972
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568973
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568974
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568976
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683568977
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568978
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568979
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568980
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568982
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568984
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568985
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568986
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683568987
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683568988
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568989
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568990
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568991
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568992
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568993
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568994
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568995
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683568996
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568997
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683568998
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683568999
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569000
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569001
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569002
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569003
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569004
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569005
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569006
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569007
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569008
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569009
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569010
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569011
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569012
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569013
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569014
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569015
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569016
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569017
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569018
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569019
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569020
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569021
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569022
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569023
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569024
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569025
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569026
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569027
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569028
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569029
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569030
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569031
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569032
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569033
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569034
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": -192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569035
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569036
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569037
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 768,
+   "timestamp": 1683569038
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 768,
+   "timestamp": 1683569039
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 576,
+   "acceleration axis z": 576,
+   "timestamp": 1683569041
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 576,
+   "acceleration axis z": 576,
+   "timestamp": 1683569042
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 768,
+   "timestamp": 1683569043
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 768,
+   "timestamp": 1683569044
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 576,
+   "timestamp": 1683569045
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 576,
+   "acceleration axis z": 576,
+   "timestamp": 1683569046
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 1152,
+   "timestamp": 1683569047
+ },
+ {
+   "acceleration axis x": -2304,
+   "acceleration axis y": -960,
+   "acceleration axis z": 960,
+   "timestamp": 1683569048
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569049
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569050
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569051
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569052
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569053
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569054
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569055
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569056
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569057
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569058
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569059
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569060
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569061
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569062
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569063
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569064
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569065
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569066
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569067
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569068
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569069
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569070
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569071
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569072
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569073
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569074
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569075
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569076
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569077
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569078
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569079
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569080
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569081
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569082
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569083
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569085
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569087
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569088
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569089
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569090
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569091
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569092
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569093
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569094
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569095
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569096
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569097
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569098
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569099
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569100
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569101
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569102
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569103
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569104
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569105
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569106
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569107
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569108
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569109
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569110
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569111
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569112
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569113
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569114
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569115
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569116
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569117
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569118
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569119
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569120
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569121
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569122
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569123
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569124
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569125
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569126
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569127
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569128
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569129
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569130
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569131
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569132
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569133
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569134
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569135
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569136
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569137
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569138
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569139
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569140
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569141
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569142
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569143
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569144
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569145
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569146
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569147
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569148
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569149
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569150
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569151
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569152
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569157
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569158
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569159
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569160
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569161
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569162
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569163
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569164
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569165
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569166
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569167
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569168
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569169
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569170
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569171
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569172
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683569173
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569174
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569175
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569176
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569177
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569178
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683569179
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569180
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569181
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683569182
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569183
+ },
+ {
+   "acceleration axis x": -384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569184
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683569185
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569186
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569187
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569188
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569189
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569191
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569192
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569193
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569194
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569195
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569196
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569197
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569198
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569199
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569200
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569201
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569202
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569203
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569204
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569205
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569206
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569207
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569208
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569209
+ },
+ {
+   "acceleration axis x": -576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569210
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 384,
+   "timestamp": 1683569211
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569212
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569213
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569214
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569215
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569216
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569217
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569218
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569219
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569220
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569221
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569222
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569223
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569224
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569225
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569226
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569227
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569228
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569229
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569230
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569231
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569232
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569233
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569234
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569235
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569236
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569237
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569238
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569239
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569240
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569241
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569242
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569243
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569244
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569245
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569246
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569247
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569248
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569249
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569250
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569251
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569252
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569253
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569254
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569255
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569256
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569257
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569258
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 384,
+   "timestamp": 1683569259
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569260
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569261
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569262
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569263
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569264
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569265
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569266
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569267
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569268
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569269
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569270
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569271
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569272
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569273
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569274
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569275
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569276
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569277
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569278
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 192,
+   "timestamp": 1683569279
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569280
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569281
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569282
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569283
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569284
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569285
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569286
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569287
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569288
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569289
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569290
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569292
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569293
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569294
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569295
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 192,
+   "timestamp": 1683569296
+ },
+ {
+   "acceleration axis x": -1152,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569297
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 384,
+   "acceleration axis z": 192,
+   "timestamp": 1683569298
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569299
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569300
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569301
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569302
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569303
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569304
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569305
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569306
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569307
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569308
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569309
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569310
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569311
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569312
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569313
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569314
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569315
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569316
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569317
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569318
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569319
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569320
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569321
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569322
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": -192,
+   "timestamp": 1683569323
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569324
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569325
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569326
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569327
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569328
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569329
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569330
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569331
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569332
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569333
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569334
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569335
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569336
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569337
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569338
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569339
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569340
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569341
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569342
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569343
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569344
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569345
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": 0,
+   "timestamp": 1683569346
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569347
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569348
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569349
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569350
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569351
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569352
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569353
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569354
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569355
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569356
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569357
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569358
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569359
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569360
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569361
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569362
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569363
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569364
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569365
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569366
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569367
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569368
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569369
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569370
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": -192,
+   "timestamp": 1683569371
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569372
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569373
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569374
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569375
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569376
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569377
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569378
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569379
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569380
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569381
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 192,
+   "acceleration axis z": -192,
+   "timestamp": 1683569382
+ },
+ {
+   "acceleration axis x": -960,
+   "acceleration axis y": 384,
+   "acceleration axis z": 384,
+   "timestamp": 1683569383
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": -192,
+   "acceleration axis z": -576,
+   "timestamp": 1683569384
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": -192,
+   "acceleration axis z": -576,
+   "timestamp": 1683569385
+ },
+ {
+   "acceleration axis x": -768,
+   "acceleration axis y": -192,
+   "acceleration axis z": -576,
+   "timestamp": 1683569386
+ },
+ {
+   "acceleration axis x": -1152,
+   "acceleration axis y": -192,
+   "acceleration axis z": 0,
+   "timestamp": 1683569387
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569388
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569389
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569390
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569391
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569393
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569394
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569395
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569396
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569397
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569398
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569399
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 384,
+   "timestamp": 1683569400
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -192,
+   "acceleration axis z": 384,
+   "timestamp": 1683569401
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 0,
+   "acceleration axis z": 384,
+   "timestamp": 1683569402
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 192,
+   "timestamp": 1683569403
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 384,
+   "timestamp": 1683569404
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 192,
+   "timestamp": 1683569405
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 192,
+   "acceleration axis z": 384,
+   "timestamp": 1683569406
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 0,
+   "acceleration axis z": 1344,
+   "timestamp": 1683569407
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -576,
+   "acceleration axis z": 768,
+   "timestamp": 1683569408
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569409
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569410
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569411
+ },
+ {
+   "acceleration axis x": -192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569412
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -576,
+   "acceleration axis z": 960,
+   "timestamp": 1683569413
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -576,
+   "acceleration axis z": -960,
+   "timestamp": 1683569414
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": -576,
+   "acceleration axis z": 192,
+   "timestamp": 1683569415
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": -1152,
+   "acceleration axis z": 768,
+   "timestamp": 1683569416
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569417
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569418
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569419
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569420
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569421
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569422
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569423
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 960,
+   "timestamp": 1683569424
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569425
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569428
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569429
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569430
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569431
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569432
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569433
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569434
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569435
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569436
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569437
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569438
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569439
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569440
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569441
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569443
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569444
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569445
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569446
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569447
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569448
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569449
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569450
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569451
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569452
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569453
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569455
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569456
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569457
+ },
+ {
+   "acceleration axis x": 768,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569458
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569459
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569460
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569461
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569462
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569463
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569464
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569465
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569466
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569467
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569468
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569469
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569470
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569471
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569472
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569473
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569474
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569475
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569476
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 0,
+   "acceleration axis z": 768,
+   "timestamp": 1683569477
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569478
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569479
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569480
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569481
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569482
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569483
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569484
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569485
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569486
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569487
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569488
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569489
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569490
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569491
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569492
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569493
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569494
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569495
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569496
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569498
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569499
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569500
+ },
+ {
+   "acceleration axis x": 576,
+   "acceleration axis y": 192,
+   "acceleration axis z": 576,
+   "timestamp": 1683569501
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569502
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569503
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569504
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569505
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569506
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569507
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569508
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569509
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569510
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569511
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569512
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569513
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569514
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569515
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569516
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569517
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569518
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569519
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569520
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569521
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569522
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569523
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569524
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569525
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569526
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569527
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569528
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569529
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569530
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569531
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569532
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569533
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569534
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569535
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569536
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569537
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569538
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569539
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569540
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569541
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569542
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569543
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569544
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569545
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569546
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569547
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569548
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569549
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569550
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569551
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569552
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569553
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569554
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569555
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569556
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569557
+ },
+ {
+   "acceleration axis x": 0,
+   "acceleration axis y": 384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569558
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 384,
+   "acceleration axis z": 384,
+   "timestamp": 1683569559
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": 576,
+   "acceleration axis z": 576,
+   "timestamp": 1683569560
+ },
+ {
+   "acceleration axis x": 960,
+   "acceleration axis y": 0,
+   "acceleration axis z": 576,
+   "timestamp": 1683569561
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 960,
+   "timestamp": 1683569562
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569563
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569564
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569565
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569566
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569567
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -384,
+   "acceleration axis z": 768,
+   "timestamp": 1683569568
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569569
+ },
+ {
+   "acceleration axis x": 192,
+   "acceleration axis y": -192,
+   "acceleration axis z": 768,
+   "timestamp": 1683569570
+ },
+ {
+   "acceleration axis x": 384,
+   "acceleration axis y": -384,
+   "acceleration axis z": 960,
+   "timestamp": 1683569571
+ }
+]

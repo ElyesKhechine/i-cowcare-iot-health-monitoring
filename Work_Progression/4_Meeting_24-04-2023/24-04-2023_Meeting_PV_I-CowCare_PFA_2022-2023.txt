@@ -1,0 +1,19 @@
+Sami fatouche 
+polymere
+Biologie insat
+emballage bio dégradable
+pour la fabrication du collier
+
+
+
+travaux futurs :
+
+Synthèse des articles scientifiques déjà envoyés
+Article naceur pour les données et les seuils de données
+Méthode utilisées
+modèle d'apprentissage ML
+Les algorithmes utilisés 
+stockage firebase / outil connecté / utilisation des données pour analyse et traitement
+Analyse des données/dashbording : quelles solutions pouvant se connecter à Firebase? 
+
+

@@ -1,0 +1,1119 @@
+[
+    {
+        "id": "d46e7866f22ac02e",
+        "type": "subflow",
+        "name": "HumidUI (2)",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 140,
+                "y": 140,
+                "wires": [
+                    {
+                        "id": "d4194d9ea93abfd0"
+                    },
+                    {
+                        "id": "993aa278376bd306"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [
+            {
+                "name": "deviceID",
+                "type": "dev",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-server",
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "dev",
+                            "file",
+                            "env"
+                        ]
+                    }
+                }
+            }
+        ],
+        "color": "#3FADB5",
+        "icon": "node-red-dashboard/ui_chart.png"
+    },
+    {
+        "id": "d4194d9ea93abfd0",
+        "type": "ui_gauge",
+        "z": "d46e7866f22ac02e",
+        "name": "Temperature Corporelle (C) Gauge",
+        "group": "59994ce465d8bf93",
+        "order": 1,
+        "width": 7,
+        "height": 5,
+        "gtype": "gage",
+        "title": "Temperature Corporelle (C)",
+        "label": "%",
+        "format": "{{value | number:1}}",
+        "min": "20",
+        "max": "50",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "80",
+        "seg2": "92",
+        "diff": false,
+        "className": "",
+        "x": 500,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "993aa278376bd306",
+        "type": "ui_chart",
+        "z": "d46e7866f22ac02e",
+        "name": "Temperature Corporelle (C) Chart",
+        "group": "59994ce465d8bf93",
+        "order": 2,
+        "width": 9,
+        "height": 5,
+        "label": "Temperature Corporelle (C)",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "step",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#2ca02c",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 500,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "59994ce465d8bf93",
+        "type": "ui_group",
+        "z": "d46e7866f22ac02e",
+        "name": "Temperature Corporelle",
+        "tab": "e078c6b.429dd38",
+        "order": 4,
+        "disp": true,
+        "width": 16,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2197f9b20e245122",
+        "type": "subflow",
+        "name": "TempUI (2)",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 120,
+                "y": 249,
+                "wires": [
+                    {
+                        "id": "b8f1f2881f690446"
+                    },
+                    {
+                        "id": "b7cc2d5e27f8b491"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [
+            {
+                "name": "deviceID",
+                "type": "dev",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-server",
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "dev",
+                            "file",
+                            "env"
+                        ]
+                    }
+                }
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red-dashboard/ui_chart.png"
+    },
+    {
+        "id": "b8f1f2881f690446",
+        "type": "ui_gauge",
+        "z": "2197f9b20e245122",
+        "name": "Chart Temperature Ambiante",
+        "group": "78467dade0c57cfb",
+        "order": 1,
+        "width": 8,
+        "height": 5,
+        "gtype": "gage",
+        "title": "Temperature Ambiante (C)",
+        "label": "C",
+        "format": "{{value | number:1}}",
+        "min": "10",
+        "max": "40",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "56",
+        "diff": false,
+        "className": "",
+        "x": 380,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "b7cc2d5e27f8b491",
+        "type": "ui_chart",
+        "z": "2197f9b20e245122",
+        "name": "Chart Temperature Ambinate",
+        "group": "78467dade0c57cfb",
+        "order": 2,
+        "width": 11,
+        "height": 5,
+        "label": "Temperature Ambiante (C)",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "step",
+        "nodata": "",
+        "dot": false,
+        "ymin": "30",
+        "ymax": "50",
+        "removeOlder": 1,
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "chart",
+        "x": 380,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b1b078c3d9f60dd3",
+        "type": "ui_group",
+        "z": "2197f9b20e245122",
+        "name": "Default",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "78467dade0c57cfb",
+        "type": "ui_group",
+        "z": "2197f9b20e245122",
+        "name": "Temperature Ambiante",
+        "tab": "e078c6b.429dd38",
+        "order": 3,
+        "disp": true,
+        "width": 20,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e078c6b.429dd38",
+        "type": "ui_tab",
+        "name": "Dashboard",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9b30030f667a40d7",
+        "type": "tab",
+        "label": "Dashboard v1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ec7385d7640cf636",
+        "type": "inject",
+        "z": "9b30030f667a40d7",
+        "name": "Temperature Ambiante",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "20* (1 + 0.4*($random()-0.5))",
+        "payloadType": "jsonata",
+        "x": 320,
+        "y": 220,
+        "wires": [
+            [
+                "97a45e4e164b7a7d"
+            ]
+        ]
+    },
+    {
+        "id": "97a45e4e164b7a7d",
+        "type": "change",
+        "z": "9b30030f667a40d7",
+        "name": "Format",
+        "rules": [
+            {
+                "t": "set",
+                "p": "timestamp",
+                "pt": "msg",
+                "to": "",
+                "tot": "date"
+            },
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "temperature",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "deviceID",
+                "pt": "msg",
+                "to": "($env(\"deviceID\") = \"\") ? \"Simulated\" : $env(\"deviceID\")",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "alert",
+                "pt": "msg",
+                "to": "(payload > 40) ? \"alert\"",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 220,
+        "wires": [
+            [
+                "f58173db2f7bbf01"
+            ]
+        ]
+    },
+    {
+        "id": "f58173db2f7bbf01",
+        "type": "subflow:2197f9b20e245122",
+        "z": "9b30030f667a40d7",
+        "name": "TempUIAmb",
+        "env": [],
+        "x": 890,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "7a07aa1aa0f75a15",
+        "type": "inject",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "[{\"Name\":\"Cow ID1\",\"Age\":\"2\",\"Date Of Birth\":\"12/09/2020\"}]",
+        "payloadType": "json",
+        "x": 290,
+        "y": 380,
+        "wires": [
+            [
+                "ba9c0a4b59a5adb3"
+            ]
+        ]
+    },
+    {
+        "id": "ba9c0a4b59a5adb3",
+        "type": "ui_table",
+        "z": "9b30030f667a40d7",
+        "group": "210b3638edc51bb5",
+        "name": "",
+        "order": 1,
+        "width": 18,
+        "height": 3,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 570,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "ba17f9b9f63da1eb",
+        "type": "comment",
+        "z": "9b30030f667a40d7",
+        "name": "Normal table",
+        "info": "",
+        "x": 290,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "7ca243ff5e69a98f",
+        "type": "ui_template",
+        "z": "9b30030f667a40d7",
+        "group": "c1e6de0d4d0c97f8",
+        "name": "CSS",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n.title{\n    font-size: 1.4em;\n    color: red !important;\n    border-left: 6px solid orange;\n}\n.save button:hover {\n  /*width: 50%;*/\n  background-color: #4CAF50; \n  color: black !important;\n}\n.save button  {\n  border: none;\n  border-radius: 8px;\n  text-align: center;\n  width: 50% ;\n  transition-duration: 0.4s;\n  background-color: #ddffdd;\n  color: white;         \n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 270,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eed589110fc1ad1f",
+        "type": "ui_text",
+        "z": "9b30030f667a40d7",
+        "group": "c1e6de0d4d0c97f8",
+        "order": 1,
+        "width": 8,
+        "height": 1,
+        "name": "",
+        "label": "Cow 1",
+        "format": "",
+        "layout": "row-spread",
+        "className": "title",
+        "x": 250,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "948c301489226e89",
+        "type": "ui_button",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "group": "c1e6de0d4d0c97f8",
+        "order": 3,
+        "width": 8,
+        "height": 1,
+        "passthru": false,
+        "label": "Save Data",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "save",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "870b8690b24a2688",
+        "type": "mqtt in",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "topic": "battery",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 230,
+        "y": 560,
+        "wires": [
+            [
+                "5b04f538d8c9fc91"
+            ]
+        ]
+    },
+    {
+        "id": "5b04f538d8c9fc91",
+        "type": "json",
+        "z": "9b30030f667a40d7",
+        "name": "To Json",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 440,
+        "y": 540,
+        "wires": [
+            [
+                "714d6523d61e07c1",
+                "7b437e361eec0212",
+                "a39c1bbdd9444d33"
+            ]
+        ]
+    },
+    {
+        "id": "714d6523d61e07c1",
+        "type": "function",
+        "z": "9b30030f667a40d7",
+        "name": "Battery Status",
+        "func": "var Vbats = msg.payload.battery_voltage;\n\nvar Vbat = Vbats.replace(\"_\",\".\");\n\nmsg.payload = Number(Vbat);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 720,
+        "y": 520,
+        "wires": [
+            [
+                "939503e7b9de95f6"
+            ]
+        ]
+    },
+    {
+        "id": "939503e7b9de95f6",
+        "type": "ui_gauge",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "group": "421e19.192041e8",
+        "order": 4,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Curr. Bat. Voltage",
+        "label": "V. Bat",
+        "format": "{{value}}",
+        "min": "11",
+        "max": "15",
+        "colors": [
+            "#b50000",
+            "#e6e600",
+            "#00b500"
+        ],
+        "x": 970,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "7b437e361eec0212",
+        "type": "function",
+        "z": "9b30030f667a40d7",
+        "name": "Bat Runtime",
+        "func": "msg.payload = Number(msg.payload.battery_runtime);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 570,
+        "y": 800,
+        "wires": [
+            [
+                "32e15344616813e5",
+                "ff45c0a0929a8692"
+            ]
+        ]
+    },
+    {
+        "id": "32e15344616813e5",
+        "type": "ui_gauge",
+        "z": "9b30030f667a40d7",
+        "name": "UPS Level",
+        "group": "fccb6f27.7691d8",
+        "order": 9,
+        "width": 5,
+        "height": 2,
+        "gtype": "wave",
+        "title": "Runtime",
+        "label": "UPS Level",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1500",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 930,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "a39c1bbdd9444d33",
+        "type": "function",
+        "z": "9b30030f667a40d7",
+        "name": "Bat Charge",
+        "func": "var Vcharges = msg.payload.battery_charge;\n\nvar Vcharge = Vcharges.replace(\"_\",\".\");\n\nmsg.payload = Number(Vcharge);\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 660,
+        "wires": [
+            [
+                "c1cd3bcdd9272494"
+            ]
+        ]
+    },
+    {
+        "id": "c1cd3bcdd9272494",
+        "type": "ui_gauge",
+        "z": "9b30030f667a40d7",
+        "name": "Battery Charge",
+        "group": "421e19.192041e8",
+        "order": 3,
+        "width": 5,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Battery Charge",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ff0000",
+            "#e6e600",
+            "#00ff01"
+        ],
+        "x": 920,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "ff45c0a0929a8692",
+        "type": "ui_chart",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "group": "fccb6f27.7691d8",
+        "order": 12,
+        "width": 5,
+        "height": 2,
+        "label": "Runtime (sec)",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm",
+        "interpolate": "linear",
+        "nodata": "",
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "outputs": 2,
+        "x": 900,
+        "y": 860,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e381a64c9cc3e3f2",
+        "type": "mqtt in",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "topic": "test/x",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 210,
+        "y": 1040,
+        "wires": [
+            [
+                "dfbe50ace3cc853e",
+                "8785291b00201363"
+            ]
+        ]
+    },
+    {
+        "id": "dfbe50ace3cc853e",
+        "type": "debug",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 450,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "5a89967e2f2cfb6a",
+        "type": "mqtt in",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "topic": "test/y",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 210,
+        "y": 1160,
+        "wires": [
+            [
+                "bf251efa1095d6d0",
+                "8785291b00201363"
+            ]
+        ]
+    },
+    {
+        "id": "bf251efa1095d6d0",
+        "type": "debug",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 470,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "22cb0836cc663861",
+        "type": "mqtt in",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "topic": "test/z",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "10e78a89.5b4fd5",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 210,
+        "y": 1260,
+        "wires": [
+            [
+                "dac8affd8a8e152a",
+                "8785291b00201363"
+            ]
+        ]
+    },
+    {
+        "id": "dac8affd8a8e152a",
+        "type": "debug",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 470,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "154e9c8f2a66375f",
+        "type": "inject",
+        "z": "9b30030f667a40d7",
+        "name": "inject to or get from",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "123",
+        "payloadType": "num",
+        "x": 310,
+        "y": 1620,
+        "wires": [
+            [
+                "92860f99e505d3be"
+            ]
+        ]
+    },
+    {
+        "id": "92860f99e505d3be",
+        "type": "http request",
+        "z": "9b30030f667a40d7",
+        "name": "PUT in Firebase",
+        "method": "PUT",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://i-cowcare2023-default-rtdb.firebaseio.com/new_key.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 580,
+        "y": 1580,
+        "wires": [
+            [
+                "4de00ba310ad0cd0"
+            ]
+        ]
+    },
+    {
+        "id": "4de00ba310ad0cd0",
+        "type": "debug",
+        "z": "9b30030f667a40d7",
+        "name": "debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "33b92046a91eac2f",
+        "type": "http request",
+        "z": "9b30030f667a40d7",
+        "name": "GET from Firebase",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://i-cowcare2023-default-rtdb.firebaseio.com/new_key.json",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 590,
+        "y": 1660,
+        "wires": [
+            [
+                "4de00ba310ad0cd0"
+            ]
+        ]
+    },
+    {
+        "id": "8785291b00201363",
+        "type": "ui_chart",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "group": "7401f15eaf3309d3",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Accelerations Chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "1",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 690,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a42d38aae525d7d6",
+        "type": "inject",
+        "z": "9b30030f667a40d7",
+        "name": "Battery Voltage",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "2* (1 + 0.4*($random()-0.5))",
+        "payloadType": "jsonata",
+        "x": 820,
+        "y": 580,
+        "wires": [
+            [
+                "939503e7b9de95f6"
+            ]
+        ]
+    },
+    {
+        "id": "0a92d5c278bbdf9f",
+        "type": "change",
+        "z": "9b30030f667a40d7",
+        "name": "Format",
+        "rules": [
+            {
+                "t": "set",
+                "p": "timestamp",
+                "pt": "msg",
+                "to": "",
+                "tot": "date"
+            },
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "humidity",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "deviceID",
+                "pt": "msg",
+                "to": "($env(\"deviceID\") = \"\") ? \"Simulated\" : $env(\"deviceID\")",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "alert",
+                "pt": "msg",
+                "to": "(payload > 92) ? \"alert\"",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 280,
+        "wires": [
+            [
+                "3309f6c4d6eb9ae0"
+            ]
+        ]
+    },
+    {
+        "id": "a7d542b2048f7770",
+        "type": "inject",
+        "z": "9b30030f667a40d7",
+        "name": "Temperature Corporelle",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "30* (1 + 0.4*($random()-0.5))",
+        "payloadType": "jsonata",
+        "x": 290,
+        "y": 280,
+        "wires": [
+            [
+                "0a92d5c278bbdf9f"
+            ]
+        ]
+    },
+    {
+        "id": "3309f6c4d6eb9ae0",
+        "type": "subflow:d46e7866f22ac02e",
+        "z": "9b30030f667a40d7",
+        "name": "",
+        "env": [],
+        "x": 890,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "210b3638edc51bb5",
+        "type": "ui_group",
+        "name": "Table",
+        "tab": "e078c6b.429dd38",
+        "order": 7,
+        "disp": true,
+        "width": "19",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c1e6de0d4d0c97f8",
+        "type": "ui_group",
+        "name": "Heading",
+        "tab": "e078c6b.429dd38",
+        "order": 1,
+        "disp": false,
+        "width": 19,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "10e78a89.5b4fd5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "192.168.43.216",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "421e19.192041e8",
+        "type": "ui_group",
+        "name": "Battery",
+        "tab": "e078c6b.429dd38",
+        "order": 5,
+        "disp": true,
+        "width": "5",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "fccb6f27.7691d8",
+        "type": "ui_group",
+        "name": " Runtime",
+        "tab": "e078c6b.429dd38",
+        "order": 6,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7401f15eaf3309d3",
+        "type": "ui_group",
+        "name": "AccelerationDataChart",
+        "tab": "e078c6b.429dd38",
+        "order": 2,
+        "disp": true,
+        "width": 19,
+        "collapse": false,
+        "className": ""
+    }
+]

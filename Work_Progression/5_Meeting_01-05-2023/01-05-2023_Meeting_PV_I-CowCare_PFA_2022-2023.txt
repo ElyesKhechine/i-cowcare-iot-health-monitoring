@@ -1,0 +1,10 @@
+1ere dataframe columns: temp x y z | rows: t
+2eme dataframe toute les 20 secondes, moyenne + ecart type + asymetrie of the graphs
+standerize the features
+robust analysis
+temperature every 15 min (copie every row in the same interval) in the dataframe
+dataframe size: 4 months
+
+next week: create the dashboard in node red, mqtt, firebase
+lundi 8th, 13h: validation dashboard
+friday 12th 14h:  validation machine learning + proposition de plan de rapport
