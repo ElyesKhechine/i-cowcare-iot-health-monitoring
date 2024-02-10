@@ -37,6 +37,14 @@ For a detailed overview of the project, including methodologies, findings, and o
 
 For comprehensive insights into project development, methodologies, and results, please refer to the [Project Report](https://drive.google.com/file/d/1peptsb_B581SGEHA1yHLA451OdRUzvFM/view?usp=sharing).
 
+## Technical Details
+
+- **Sensor Selection**: Careful selection of accelerometer and temperature sensors to optimize accuracy and efficiency, enabling over 3400 hours of continuous health monitoring with a 1300mAh lithium battery.
+- **Custom Embedded C Library**: Development of a resource-efficient embedded C library for ESP32, facilitating seamless Wi-Fi connectivity, sensor data acquisition, and database publishing via MQTT, resulting in a 45% reduction in power consumption and memory utilization.
+- **Data Acquisition and Storage**: Implementation of a streamlined process for data acquisition, storage, and retrieval, ensuring efficient communication with Firebase, transmission at 10 Hz, and generation of structured CSV files for DNN model training.
+- **Node-RED Dashboard**: Creation of a Node-RED dashboard for visualizing body temperature and acceleration data, enhancing monitoring capabilities.
+- **Supervised ML Models**: Collaboration on building supervised ML models using Edge Impulse, achieving a commendable 77% accuracy rate in classifying cow behaviors.
+
 ## Getting Started
 
 # 1/ Installation and environment preparation
