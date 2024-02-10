@@ -1,5 +1,10 @@
+# I-Cow-Care: IoT System for AI-Based Cow Health Monitoring
 
-# I-Cow-Care: IoT System for Cow Health Monitoring
+### INSAT IIA4
+
+**Technologies:** Embedded C, ESP32, UART, I2C, MQTT, Mosquitto, CSV, JSON, Node-RED, Firebase, Edge Impulse, DNN
+
+## Introduction
 
 This project presents an IoT solution for cow health monitoring. The IoT device (Wearable Collar for cows) will help cow breeders detect cow health problems, and cow reproduction cycle in order to increase milk productivity and help prevent sickness and diseases among cows. This also gives the user easy access to the cow's vital indicators and helps predict its needs.
 
@@ -17,7 +22,22 @@ The steps below presenting the work done to establish the IoT network and prepar
 
 5/ Hardware design: 3D mechanical and electronic design.
 
-6/Train machine learning models using Edge Impulse Platform for Embedded ML.
+6/ Train machine learning models using Edge Impulse Platform for Embedded ML.
+
+
+## Project Scope
+
+Commencing from March 23, 2023, to June 1, 2023, the project undertook comprehensive research and development phases to design and implement an intelligent system for continuous cow health monitoring.
+
+## Project Presentation
+
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://www.canva.com/design/DAF2yuFe7VU/87OEpLmWulKL93VecQ9gpw/view?utm_content=DAF2yuFe7VU&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+## Project Report
+
+For comprehensive insights into project development, methodologies, and results, please refer to the [Project Report](https://drive.google.com/file/d/1peptsb_B581SGEHA1yHLA451OdRUzvFM/view?usp=sharing).
+
+## Getting Started
 
 # 1/ Installation and environment preparation
 
