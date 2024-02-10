@@ -74,13 +74,13 @@ node-red
 
 1/ We used Arduino IDE to program the ESP32  You'll find the whole script and library in the repository.
 
-### Machine Learning :
+### Deep Learning :
 
-1/Data Preprocessing:  We engaged in data preprocessing, a step that involved tasks such as data cleansing, noise reduction, and handling missing values within the CSV dataset.
+1/ Data Preprocessing:  We engaged in data preprocessing, a step that involved tasks such as data cleansing, noise reduction, and handling missing values within the CSV dataset.
 
-2/Feature Extraction: We extracted spectral and temporal features from the preprocessed data.
+2/ Feature Extraction: We extracted spectral and temporal features from the preprocessed data.
 
-3/Neural Network Construction and Training: We designed and trained a neural network tailored to our dataset using the Edge Impulse platform. We then exported the TfLite model. 
+3/ Neural Network Construction and Training: We designed and trained a neural network tailored to our dataset using the Edge Impulse platform. We then exported the TfLite model. 
 
 Edge impulse link: https://edgeimpulse.com/
 
