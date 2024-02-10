@@ -72,10 +72,10 @@ The project is far from being perfect or completed. The following steps may incl
 ## Authors
 
 This contribution to the project wasn't possible without the participation of the outstanding team :
-- Edriss Hadj Khelil
-- Majd Karoui
-- Niam Oueslati
-- Elyes Khechine
+- Edris Hadj Khlil: edris.hadjkhlil@insat.ucar.tn
+- Majd Karoui: majd.karoui@insat.ucar.tn
+- Niam Oueslaiti: niam.oueslaiti@insat.ucar.tn
+- Elyes Khechine: elyes.khechine@insat.ucar.tn
   
 And the supervision of our professors :
 - Imen Harbaoui
