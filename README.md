@@ -97,17 +97,6 @@ We used SolidWorks to design different parts of the device.
 
 ## Next Steps :
 The project is far from being perfect or completed. The following steps may include enlarging and building a bigger database to ensure our sufficiency of data for model training. It may also include building a mobile application to facilitate access to data and different stats for different categories of users.
-## Authors
-
-This contribution to the project wasn't possible without the participation of the outstanding team :
-- Edris Hadj Khlil: edris.hadjkhlil@insat.ucar.tn
-- Majd Karoui: majd.karoui@insat.ucar.tn
-- Niam Oueslaiti: niam.oueslaiti@insat.ucar.tn
-- Elyes Khechine: elyes.khechine@insat.ucar.tn
-  
-And the supervision of our professors :
-- Imen Harbaoui
-- Rabaa Youssef
 
 ## Demo
 
@@ -152,3 +141,15 @@ And the supervision of our professors :
 ### Flow Diagram
 
 ![SCL (1)](https://github.com/edrisshk1/I-Cow-Care/assets/122979130/8d827da0-4d0c-4716-9b6d-ed8d183c2d42)
+
+## Authors
+
+This contribution to the project wasn't possible without the participation of the outstanding team :
+- Edris Hadj Khlil: edris.hadjkhlil@insat.ucar.tn
+- Majd Karoui: majd.karoui@insat.ucar.tn
+- Niam Oueslaiti: niam.oueslaiti@insat.ucar.tn
+- Elyes Khechine: elyes.khechine@insat.ucar.tn
+  
+And the supervision of our professors :
+- Imen Harbaoui: imen.harbaoui@insat.ucar.tn
+- Rabaa Youssef: rabaa.youssef@insat.ucar.tn
